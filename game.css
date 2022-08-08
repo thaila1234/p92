@@ -1,0 +1,48 @@
+body {
+	background: rgb(240, 200, 182);
+}
+
+.DivLogin1 , .DivLogin2 {
+	background: rgb(231, 162, 130);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+#player1Name , #player2Name {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word {
+	width: 60%;
+}
+
+#wordDisplay {
+	letter-spacing: 5px;
+}
+
+#output {
+background: white;
+border-radius: 10px;
+border-top: 10px solid #aa6144;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#btnLog{
+	background-color: #dfa384;
+	padding: 10px;
+	float: none;
+	border-radius: 5px;
+	width: 15%;
+}
+
+#btnEnviar{
+	width: 16%;
+	background-color: #cf9172;
+	padding: 10px;
+	float: none;
+	border-radius: 5px;
+}
